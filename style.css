@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: lightyellow;
+}
+
+.tophead *{
+    background-color: lightyellow;
+    text-align: center;
+    font-size: 2rem;
+    font-family: sans-serif;
+    line-height: 2rem;
+    color: green;
+    padding: 10px;
+}
+
+.middletext * {
+    background-color: lightblue;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    color: green;
+    padding: 5px;
+}
+
+.lefttext * {
+    background-color: grey;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    color: white;
+    padding: 10px;
+}
+
+.lefttext2 * {
+    background-color: lightblue;
+    border-radius: 10px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    color: green;
+    padding: 5px;
+}
